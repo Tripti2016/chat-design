@@ -9,7 +9,7 @@ const ChatContent = () => {
   const sendContent = [
     {
       images: [],
-      content: "pointshat sounds great. I’d be happy with that.",
+      content: "pointshat sounds great. I’d be happy with that and all.",
     },
     {
       images: [],
